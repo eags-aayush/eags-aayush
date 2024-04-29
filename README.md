@@ -6,7 +6,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/eags-aayush/eags-aayush/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/eags-aayush/eags-aayush/output/snake.svg" alt="snake animation" />
 
 ###
 
