@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Aayush Laddha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eags-aayush&label=Profile%20views&color=0e75b6&style=flat" alt="eags-aayush" /> </p>
 
@@ -32,6 +31,3 @@
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=eags-aayush&show_icons=true&locale=en&theme=dark" alt="eags-aayush" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eags-aayush&theme=dark" alt="eags-aayush" /></p>
-
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
