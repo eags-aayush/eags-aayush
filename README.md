@@ -1,48 +1,37 @@
-<h1 align="left">Hey There!</h1>
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi 👋, I'm Aayush Laddha</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eags-aayush&label=Profile%20views&color=0e75b6&style=flat" alt="eags-aayush" /> </p>
 
-###
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eags-aayush&theme=" alt="eags-aayush" /></a> </p>
 
-<p align="left">I'm Aayush Laddha from Kolkata, India</p>
 
-###
+- 📫 How to reach me **aayushladdha001@gmail.com**
+- 👨‍💻 All of my projects are available at **https://github.com/eags-aayush**
+- ⚡ Fun fact **I think I am Getting creative.**
 
-<img src="https://raw.githubusercontent.com/eags-aayush/eags-aayush/output/snake.svg" alt="snake animation" />
+<div> <a href="https://github.com/eags-aayush" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/eags.aayush" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:aayushladdha001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/1170648489936564305" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="1170648489936564305" height="30" width="40" /></a><a href="https://instagram.com/eags.aayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="eags.aayush" height="30" width="40" /></a></p>
 
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  />
-</div>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/eags.aayush"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="eags.aayush" /></a></p><br><br>
 
-###
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eags-aayush&layout=compact&theme=dark" alt=eags-aayush />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eags-aayush&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eags-aayush&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=eags-aayush&show_icons=true&locale=en&theme=dark" alt="eags-aayush" /></p>
 
-###
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eags-aayush&theme=dark" alt="eags-aayush" /></p>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31ksdcodi4k4jahbhxdx7icbsngy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ksdcodi4k4jahbhxdx7icbsngy&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
-###
-
-<div align="center">
-  <a href="https://www.instagram.com/eags.aayush/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/user/1170648489936564305" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-</div>
-
-###
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
