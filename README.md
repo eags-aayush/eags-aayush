@@ -1,33 +1,94 @@
-<h1 align="center">Hi 👋, I'm Aayush Laddha</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eags-aayush&label=Profile%20views&color=0e75b6&style=flat" alt="eags-aayush" /> </p>
+<br clear="both">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eags-aayush&theme=" alt="eags-aayush" /></a> </p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=eags-aayush.eags-aayush&"  />
 
+###
 
-- 📫 How to reach me **aayushladdha001@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/eags-aayush**
-- ⚡ Fun fact **I think I am Getting creative.**
+<br clear="both">
 
-<div> <a href="https://github.com/eags-aayush" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/eags.aayush" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:aayushladdha001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/1170648489936564305" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="1170648489936564305" height="30" width="40" /></a><a href="https://instagram.com/eags.aayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="eags.aayush" height="30" width="40" /></a></p>
+<h1 align="center">Hello World!!</h1>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-</p>
+###
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/eags.aayush"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="eags.aayush" /></a></p><br><br>
+<br clear="both">
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eags-aayush&layout=compact&theme=dark" alt=eags-aayush />
+<p align="center">I am Aayush Laddha from Kolkata, India</p>
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=eags-aayush&show_icons=true&locale=en&theme=dark" alt="eags-aayush" /></p>
+###
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eags-aayush&theme=dark" alt="eags-aayush" /></p>
+<br clear="both">
+
+<h3 align="center">About Me</h3>
+
+###
+
+<br clear="both">
+
+<p align="center">I am a beginner and trying to become best.</p>
+
+###
+
+<br clear="both">
+
+<h3 align="center">I Use</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="mailto:aayushladdha001@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/eags.aayush/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/aayush001_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="" alt="discord logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="" alt="paypal logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="" alt="telegram logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/eags-aayush/eags-aayush/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eags-aayush&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=eags-aayush&locale=en&mode=daily&theme=blue-green&hide_border=false&date_format=j%20M%5B%20Y%5D&order=3" height="119" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/BfprZBD7YqUAAAAC/pusheen-animated-pusheen.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="?" alt="Widget with the current Spotify song"  />
+</div>
+
+###
