@@ -32,3 +32,12 @@ I'm Aayush Laddha from Kolkata<br><br>- 🔭 I’m working as freelancer<br>- �
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=eags-aayush&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### Pacman game
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eags-aayush/eags-aayush/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eags-aayush/eags-aayush/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eags-aayush/eags-aayush/output/pacman-contribution-graph.svg">
+</picture>
+
+###
