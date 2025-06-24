@@ -32,6 +32,3 @@ I'm Aayush Laddha from Kolkata<br><br>- 🔭 I’m working as freelancer<br>- �
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=eags-aayush&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=eags-aayush&icon=0&color=7)](https://visitcount.itsvg.in)
