@@ -81,9 +81,8 @@ $ echo $STATUS
 ---
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=eags-aayush&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=00fff5&fire=ff6edf&currStreakLabel=a0a0ff" />
-<br/><br/>
- 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eags-aayush&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=00fff5&fire=ff6edf&currStreakLabel=a0a0ff" />
+<br />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eags-aayush&theme=github_dark" />
 <br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eags-aayush&theme=github_dark" />
